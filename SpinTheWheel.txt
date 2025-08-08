@@ -2,6 +2,17 @@ Take a drink
 Give a drink
 Take 1, Give 1
 Girls drink
+Player to your right drinks
+Player to your left drinks
+Gift a shot
+group drinks x2
+drink and spin again
+do a dare
+Truth or drink
+Finish 25% of your drink
+Your friends drink
+Finish 50% of your drink
+Water Shot
 Guys drink
 Everyone drink!
 Drink if you have animal ears
@@ -46,8 +57,6 @@ Give 10 drinks
 Spinner drinks 1
 Spinner drinks 2
 Spinner drinks 3
-Spinner drinks 4
-Spinner drinks 5
 Drink if you wear prescription glasses
 Drink if you've ever changed your vrc user name
 Drink if you have a cat!
@@ -63,7 +72,6 @@ Shortest username drinks
 Redheads drink 5
 Drink if you're in RageWave
 Drink if you're in FowlPlay
-Drink if you're in Yitties
 Give a drink for every year you've played VRChat
 Take an actual shot
 Drink if your username contains an animal
